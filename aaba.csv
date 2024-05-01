@@ -1,0 +1,208 @@
+family,genus,species,status,type,prevalence,typedetailled,EEO,pfamily,pspecie,,region,reference,,host
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Tristrongylidae,Ascaris,sp.,Mandena,"raharivololona and ganzhorn, 2008",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,protozoa,,protozoan,358995,Coccidia,Coccidia,sp.,Mandena,"raharivololona and ganzhorn, 2009",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,cestode,358995,Hymenolepididae,Hymenolepis,sp.,Mandena,"raharivololona and ganzhorn, 2010",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Tristrongylidae,Subulura,sp.,Mandena,"raharivololona and ganzhorn, 2008",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Tristrongylidae,strongylidae,sp.,Mandena,"raharivololona and ganzhorn, 2008",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Tristrongylidae,Trichuris,sp.,Mandena,"raharivololona and ganzhorn, 2008",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Tristrongylidae,Lemuricola,sp.,Mandena,"raharivololona and ganzhorn, 2008",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Tristrongylidae,Oxyuridae,sp.,Mandena,"raharivololona and ganzhorn, 2008",,Microcebus_murinus
+Cheirogaleidae,Microcebus,berthae,CR,helminth,,nematode,809,Tristrongylidae,Trichuris,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_berthae
+Cheirogaleidae,Microcebus,berthae,CR,helminth,,cestode,809,Hymenolepididae,Hymenolepis,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_berthae
+Cheirogaleidae,Microcebus,berthae,CR,protozoa,,protozoan,809,Opisthorchiida,Opisthorchis,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_berthae
+Cheirogaleidae,Microcebus,berthae,CR,helminth,,nematode,809,Tristrongylidae,Ascaris,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_berthae
+Cheirogaleidae,Microcebus,murinus,LC,protozoa,,protozoan,358995,coccidia,coccidia,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Tristrongylidae,Subulura,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Hymenolepididae,Hymenolepis,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Heterophyidae,Metagonimus,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Trichuridae,Trichuris,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Ascarididae,Ascaris,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,strongylidae,strongylidae,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Oxyuridae,Oxyuridae,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Oxyuridae,Lemuricola,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,trematode,358995,Fasciolidae,Fasciolidae,,kirindy,Martha mosna thesis,,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Chabertiidae,Oesophagostomum,sp.,Kirindy,"Springer & Kappeler, 2016",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Subuluridae,Suburula,baeri,Ampijoroa,"Chabau et al., 1965",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Subuluridae,Suburula,baeri,Mananara,"Chabau et al., 1965",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Oxyuridae,Lemuricola,microcebi,,"Hugo et al., 1995",,Microcebus_murinus
+Cheirogaleidae,Cheirogaleus,medius,VU,helminth,,cestode,49306,Hymenolepididae,Hymenolepis,,,,,Cheirogaleus_medius
+Cheirogaleidae,Cheirogaleus,medius,VU,helminth,,trematode,49306,Heterophyidae,Metagonimus,,,,,Cheirogaleus_medius
+Cheirogaleidae,Cheirogaleus,medius,VU,protozoa,,protozoan,49306,coccidia,coccidia,,,,,Cheirogaleus_medius
+Cheirogaleidae,Cheirogaleus,medius,VU,helminth,,nematode,49307,Subuluridae,Subulura,sp.,Kirindy,"Springer & Kappeler, 2016",,Cheirogaleus_medius
+Cheirogaleidae,Cheirogaleus,medius,VU,helminth,,nematode,49307,Trichuridae,Trichuris,sp.,Kirindy,"Springer & Kappeler, 2016",,Cheirogaleus_medius
+Cheirogaleidae,Cheirogaleus,medius,VU,helminth,,nematode,49307,Ascarididae,Ascaris,sp.,Kirindy,"Springer & Kappeler, 2016",,Cheirogaleus_medius
+Cheirogaleidae,Cheirogaleus,medius,VU,helminth,,nematode,49307,strongylidae,strongylidae,sp.,Kirindy,"Springer & Kappeler, 2016",,Cheirogaleus_medius
+Cheirogaleidae,Cheirogaleus,medius,VU,helminth,,nematode,49307,Oxyuridae,Oxyuridae,sp.,Kirindy,"Springer & Kappeler, 2016",,Cheirogaleus_medius
+Cheirogaleidae,Cheirogaleus,major,VU,helminth,,nematode,90900,Oxyuridae,Lemuricola,contagiosus,,"Chabaud and petter, 1959",,Cheirogaleus_major
+Cheirogaleidae,Cheirogaleus,major,VU,helminth,,cestode,90900,Hymenolepididae,Hymenolepis,,,,,Cheirogaleus_major
+Cheirogaleidae,Mirza,coquereli,EN,helminth,,nematode,85975,Trichuridae,Trichuris,sp.,Kirindy,"Springer & Kappeler, 2016",,Mirza_coquereli
+Cheirogaleidae,Mirza,coquereli,EN,helminth,,nematode,85975,Ascarididae,Ascaris,sp.,Kirindy,"Springer & Kappeler, 2016",,Mirza_coquereli
+Cheirogaleidae,Mirza,coquereli,EN,helminth,,nematode,85975,Subuluridae,Subulura,sp.,Kirindy,"Springer & Kappeler, 2016",,Mirza_coquereli
+Cheirogaleidae,Microcebus,rufus,VU,helminth,,nematode,5191,strongylidae,Strongyloides,sp.,ranomafana,"Rafalinirina et al., 2015",,Microcebus_rufus
+Cheirogaleidae,Microcebus,rufus,VU,helminth,,cestode,5192,Hymenolepididae,Hymenolepis,,,,,Microcebus_rufus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Oxyuridae,Lemuricola,,,,,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,cestode,358995,Hymenolepididae,Hymenolepis,,Ankarafantsika,"Kien et al., 2020",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Entamoebidae,Enterobiinae ,,Ankarafantsika,"Kien et al., 2020",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,strongylidae,strongylidae,sp.,Ankarafantsika,"Kien et al., 2020",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Ascarididae,Ascaris,sp.,Ankarafantsika,"Kien et al., 2020",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,strongylidae,Strongyloides,sp.,Ankarafantsika,"Kien et al., 2020",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Subuluridae,Subuluridae,sp.,Ankarafantsika,"Kien et al., 2020",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Spiruroidae,Spirura,sp.,Ankarafantsika,"Kien et al., 2020",,Microcebus_murinus
+Cheirogaleidae,Microcebus,ravelobensis,VU,protozoa,,protozoan,9486,Entamoebidae,Enterobiinae ,,,,,Microcebus_ravelobensis
+Cheirogaleidae,Microcebus,ravelobensis,VU,helminth,,cestode,9486,Hymenolepididae,Hymenolepis,,Ankarafantsika,"Kien et al., 2020",,Microcebus_ravelobensis
+Cheirogaleidae,Microcebus,ravelobensis,VU,helminth,,nematode,9486,Oxyuridae,Lemuricola,sp.,Ankarafantsika,"Kien et al., 2020",,Microcebus_ravelobensis
+Cheirogaleidae,Microcebus,ravelobensis,VU,helminth,,nematode,9486,strongylidae,strongylidae,sp.,Ankarafantsika,"Kien et al., 2020",,Microcebus_ravelobensis
+Cheirogaleidae,Microcebus,ravelobensis,VU,helminth,,nematode,9486,Ascarididae,Ascaris,sp.,Ankarafantsika,"Kien et al., 2020",,Microcebus_ravelobensis
+Cheirogaleidae,Microcebus,ravelobensis,VU,protozoa,,protozoan,9486,Emeriidae,Emeriidae,sp.,Ankarafantsika,"Kien et al., 2020",,Microcebus_ravelobensis
+Cheirogaleidae,Microcebus,ravelobensis,VU,helminth,,nematode,9486,strongylidae,Strongyloides,sp.,Ankarafantsika,"Kien et al., 2020",,Microcebus_ravelobensis
+Cheirogaleidae,Microcebus,ravelobensis,VU,helminth,,nematode,9486,Subuluridae,Subuluridae,sp.,Ankarafantsika,"Kien et al., 2020",,Microcebus_ravelobensis
+Cheirogaleidae,Microcebus,ravelobensis,VU,helminth,,nematode,9486,Spiruroidae,Spirura,sp.,Ankarafantsika,"Kien et al., 2020",,Microcebus_ravelobensis
+Cheirogaleidae,Cheirogaleus,medius,VU,helminth,,nematode,49307,Spiruroidae,Spirura,diplocyphos,Ampijoroa,"Chabau et al., 1965",estomac,Cheirogaleus_medius
+Cheirogaleidae,Cheirogaleus,medius,VU,helminth,,nematode,49307,Subuluridae,Suburula,baeri,Ampijoroa,"Chabau et al., 1965",,Cheirogaleus_medius
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Spiruroidae,Spirura,diplocyphos,Ampijoroa,"Chabau et al., 1965",,Microcebus_murinus
+Cheirogaleidae,Cheirogaleus,medius,VU,helminth,,nematode,49307,Spiruroidae,Spirura,diplocyphos,Ampijoroa,"Chabau et al., 1965",,Cheirogaleus_medius
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,nematode,358995,Rictularioidea,Rictularia,lemuris,Ampijoroa,"Chabau et al., 1965",,Microcebus_murinus
+Cheirogaleidae,Cheirogaleus,major,VU,helminth,,nematode,90900,Trichuridae,Trichuris,lemuris,Mandena,"Raharivololona 2006, 2009",,Cheirogaleus_major
+Cheirogaleidae,Cheirogaleus,medius,VU,helminth,,nematode,49307,Trichuridae,Trichuris,sp.,Mandena,"Raharivololona 2006, 2009",,Cheirogaleus_medius
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,trematode,358995,Dicrocoeliidae,Zonorchis,microcebi,Mahabo,"Richard, 1965",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,helminth,,trematode,358995,Fasciolidae,Fasciola,,Mandena,"raharivololona and ganzhorn, 2008",,Microcebus_murinus
+Daubentonidae,Daubentonia,madagascariensis,EN,helminth,,nematode,523499,Oxyuridae,Lemuricola,daubentoniae,,"Petter et al., 1972",,Daubentonia_madagascariensis
+Daubentonidae,Daubentonia,madagascariensis,EN,helminth,,nematode,523499,Ascarididae,Ascaris,petiti,Mahambo,"Chabau et al., 1965",,Daubentonia_madagascariensis
+Daubentonidae,Daubentonia,madagascariensis,EN,helminth,,nematode,523499,Spiruroidae,Spirura,,,"Faulkner et al., 2004",,Daubentonia_madagascariensis
+Indriidae,Propithecus,verreauxi,CR,helminth,,nematode,131892,strongylidae,strongyloides,,Kirindy,"rambeloson et al., ",,Propithecus_verreauxi
+Indriidae,Propithecus,verreauxi,CR,helminth,,nematode,131892,Tristrongylidae,Pararhabdonema,,Kirindy,"rambeloson et al., ",,Propithecus_verreauxi
+Indriidae,Propithecus,verreauxi,CR,helminth,,nematode,131892,Tristrongylidae,Trichostrongylidae,sp.,Kirindy,"Springer & Kappeler, 2016",,Propithecus_verreauxi
+Indriidae,Propithecus,verreauxi,CR,helminth,,nematode,131892,Oxyuridae,Lemuricola,tricuroides,,"Chabaud et al., 1961",,Propithecus_verreauxi
+Indriidae,Avahi,occidentalis,VU,helminth,,nematode,8619,strongylidae,strongylidae,sp.,Ankarafantsika,"Hokan et al., 2018",,Avahi_occidentalis
+Indriidae,Indri,indri,CR,helminth,,nematode,61794,Oxyuridae,Callistoura,brygooi,Nosivolo,"Chabau et al., 1965",,Indri_indri
+Indriidae,Indri,indri,CR,helminth,,nematode,61794,Oxyuridae,Callistoura,blanci,Nosivolo,"Chabau et al., 1965",,Indri_indri
+Indriidae,Propithecus,verreauxi,CR,helminth,,nematode,131892,strongylidae,Lemurostrongylus,sp.,Tsiombokibo Classified Forest,"Junge et al., 2005",Biomedical,Propithecus_verreauxi
+Indriidae,Indri,indri,CR,helminth,,nematode,61794,strongylidae,Lemurostrongylus,,,"Faulkner et al., 2004",,Indri_indri
+Indriidae,Propithecus,diadema,CR,helminth,,nematode,44292,strongylidae,Lemurostrongylus,sp.,Tsinjoarivo,"Irwin, unpublished",,Propithecus_diadema
+Indriidae,Indri,indri,CR,helminth,,nematode,61794,Tristrongylidae,Pararhabdonema,longistriata,,"Chabau et al., 1961a",,Indri_indri
+Indriidae,Propithecus,coquereli,CR,helminth,,nematode,27662,Tristrongylidae,Pararhabdonema,longistriata,,"Chabau et al., 1965",,Propithecus_coquereli
+Indriidae,Avahi,occidentalis,VU,helminth,,nematode,8619,Tristrongylidae,Pararhabdonema,longistriata,,"Chabau et al., 1965",,Avahi_occidentalis
+Indriidae,Propithecus,verreauxi,CR,helminth,,nematode,131892,Oxyuridae,Oxyuridae,,Bezaha Mahafaly,"loudon and Sauther, 2013",,Propithecus_verreauxi
+Indriidae,Propithecus,verreauxi,CR,helminth,,nematode,131892,strongylidae,Lemurostrongylus,,Bezaha Mahafaly,"loudon and Sauther, 2013",,Propithecus_verreauxi
+Indriidae,Propithecus,verreauxi,CR,helminth,,nematode,131892,Oxyuridae,Lemuricola,,Kirindy Mitea,"Rasambainarivo et al., 2014",Biomedical,Propithecus_verreauxi
+Indriidae,Avahi,laniger,VU,helminth,,cestode,96126,Anoplocephalidae,Bertiella, lemuriformis,Tsiombokibo Classified Forest,"Junge et al., 2005",Biomedical,Avahi_laniger
+Indriidae,Propithecus,verreauxi,CR,helminth,,cestode,131892,Anoplocephalidae,Bertiella,lemuriformis,Kirindy Mitea,"Rasambainarivo et al., 2014",Biomedical,Propithecus_verreauxi
+Indriidae,Propithecus,tattersalli,CR,helminth,,nematode,1919,none,none,,Daraina,"Peg-Kirjian et al., 2021",Biomedical,Propithecus_tattersalli
+Lemuridae,Eulemur,ruffifrons,VU,helminth,,nematode,138438,Oxyuridae,Lemuricola,sp.,Kirindy,"Springer & Kappeler, 2016",,Eulemur_rufifrons
+Lemuridae,Eulemur,ruffifrons,VU,helminth,,nematode,138438,Oxyuridae,Callistoura,sp.,Kirindy,"Springer & Kappeler, 2016",,Eulemur_rufifrons
+Lemuridae,Eulemur,ruffifrons,VU,helminth,,cestode,138438,Anoplocephalidae,Anoplocephalidae,,Kirindy,"Springer & Kappeler, 2017",,Eulemur_rufifrons
+Lemuridae,Eulemur,ruffifrons,VU,helminth,,trematode,138438,Dicrocoeliidae,Dicrocoeliidae,,Kirindy,"Springer & Kappeler, 2018",,Eulemur_rufifrons
+Lemuridae,Eulemur,ruffifrons,VU,protozoa,,protozoan,138438,Entamoebidae,Entamoeba,,Kirindy,"Springer & Kappeler, 2019",,Eulemur_rufifrons
+Lemuridae,Eulemur,ruffifrons,VU,helminth,,nematode,138438,Tristrongylidae,Tristrongylidae,sp.,Kirindy,"Springer & Kappeler, 2016",,Eulemur_rufifrons
+Lemuridae,Eulemur,ruffifrons,VU,protozoa,,protozoan,138438,Balantidiidae,Balantidium,sp.,Kirindy,"Springer & Kappeler, 2016",,Eulemur_rufifrons
+Lemuridae,Eulemur,ruffifrons,VU,helminth,,nematode,138438,strongylidae,strongylidae,sp.,Kirindy,"Clough, 2010",,Eulemur_rufifrons
+Lemuridae,Eulemur,ruffifrons,VU,helminth,,nematode,138438,Trichuridae,Trichuris,sp.,Kirindy,"Clough, 2010",,Eulemur_rufifrons
+Lemuridae,Eulemur,flavifrons,CR,helminth,,nematode,4071,Oxyuridae,Lemuricola,sp.,Sahamalaza,"Schwitzer et al., 2010",,Eulemur_flavifrons
+Lemuridae,Eulemur,flavifrons,CR,helminth,,nematode,4071,Oxyuridae,Callistoura,sp.,Sahamalaza,"Schwitzer et al., 2010",,Eulemur_flavifrons
+Lemuridae,Eulemur,macaco,EN,helminth,,nematode,11732,Oxyuridae,Lemuricola,sp.,Reserve lokobe,"Jung et al., 2007",Biomedical,Eulemur_macaco
+Lemuridae,Eulemur,macaco,EN,helminth,,nematode,11732,Oxyuridae,Callistoura,sp.,Reserve lokobe,"Jung et al., 2007",Biomedical,Eulemur_macaco
+Lemuridae,Eulemur,macaco,EN,helminth,,nematode,11732,Oxyuridae,Lemuricola,lemuris,,"Baer, 1935",,Eulemur_macaco
+Lemuridae,Hapalemur,griseus,VU,helminth,,nematode,265567,strongylidae,strongylidae,sp.,,"Jung et al., 2008",,Hapalemur_griseus
+Lemuridae,Prolemur,simus,CR,helminth,,nematode,30552,strongylidae,strongylidae,sp.,,"Jung et al., 2009",,Prolemur_simus
+Lemuridae,Eulemur,fulvus,VU,helminth,,nematode,170182,Oxyuridae,Lemuricola,vauceli,Ampijoroa,"Chabau et al., 1965",,Eulemur_fulvus
+Lemuridae,Eulemur,fulvus,VU,helminth,,nematode,170182,Oxyuridae,Lemuricola,baltazardi,Ampijoroa,"Chabau et al., 1965",,Eulemur_fulvus
+Lemuridae,Eulemur,fulvus,VU,helminth,,nematode,170182,Oxyuridae,Callistoura,blanci,Ampijoroa,"Chabau et al., 1965",,Eulemur_fulvus
+Lemuridae,Prolemur,simus,CR,helminth,,nematode,30552,Oxyuridae,Lemuricola,bauchoti,Ambavaniasy,"Chabau et al., 1965",,Prolemur_simus
+Lemuridae,Eulemur,macaco,EN,helminth,,nematode,11732,Oxyuridae,Callistoura,brygooi,Nosi-be,"Chabau et al., 1965",,Eulemur_macaco
+Lemuridae,Hapalemur,griseus,VU,helminth,,nematode,265567,strongylidae,Lemurostrongylus,sp.,Analamazaotra,"Chabau et al., 1961",,Hapalemur_griseus
+Lemuridae,Eulemur,fulvus,VU,helminth,,nematode,170182,strongylidae,Lemurostrongylus,sp.,,"Junge and Sauther, 2006",,Eulemur_fulvus
+Lemuridae,Varecia,rubra,CR,helminth,,nematode,6423,strongylidae,Lemurostrongylus,sp.,Masoala,"Dutton et al., in press",Biomedical,Varecia_rubra
+Lemuridae,Varecia,variegata,CR,helminth,,nematode,99202,strongylidae,Lemurostrongylus,sp.,,"Faulkner et al., 2004",,Varecia_variegata_variegata
+Lemuridae,Eulemur,rubriventer,VU,helminth,,nematode,142826,strongylidae,Lemurostrongylus,sp.,,"Hogg, 2002",,Eulemur_rubriventer
+Lemuridae,Eulemur,rubriventer,VU,helminth,,trematode,142826,Fasciolidae,Fasciola,,,,,Eulemur_rubriventer
+Lemuridae,Prolemur,simus,CR,helminth,,nematode,30552,strongylidae,Lemurostrongylus,sp.,,"Hogg, 2002",,Prolemur_simus
+Lemuridae,Hapalemur,aureus,CR,helminth,,nematode,4385,strongylidae,Lemurostrongylus,sp.,,"Hogg, 2002",,Hapalemur_aureus
+Lemuridae,Varecia,variegata,CR,helminth,,nematode,99202,Tristrongylidae,Pararhabdonema,longistriata,,"Chabau et al., 1965",,Varecia_variegata_variegata
+Lemuridae,Eulemur,fulvus,VU,helminth,,nematode,170182,Tristrongylidae,Pararhabdonema,longistriata,,"Chabau et al., 1965",,Eulemur_fulvus
+Lemuridae,Eulemur,albifrons,VU,helminth,,nematode,49901,Tristrongylidae,Pararhabdonema,longistriata,,"Chabau et al., 1965",,Eulemur_albifrons
+Lemuridae,Lemur,catta,EN,helminth,,nematode,115083,Coccidia,Coccidia,sp.,Bezaha Mahafaly,"loudon and Sauther, 2013",,Lemur_catta
+Lemuridae,Lemur,catta,EN,helminth,,nematode,115083,Oxyuridae,Oxyuridae,sp.,Bezaha Mahafaly,"loudon and Sauther, 2013",,Lemur_catta
+Lemuridae,Lemur,catta,EN,helminth,,nematode,115083,strongylidae,Lemurostrongylus,sp.,Bezaha Mahafaly,"loudon and Sauther, 2013",,Lemur_catta
+Lemuridae,Lemur,catta,EN,helminth,,nematode,115083,Tristrongylidae,Tristrongyloides,,Bezaha Mahafaly,"loudon and Sauther, 2013",,Lemur_catta
+Lemuridae,Lemur,catta,EN,helminth,,nematode,115083,Subuluridae,subulura,sp.,Bezaha Mahafaly,"loudon and Sauther, 2013",,Lemur_catta
+Lemuridae,Lemur,catta,EN,helminth,,nematode,115083,Trichuridae,Trichuris,sp.,Bezaha Mahafaly,"loudon and Sauther, 2013",,Lemur_catta
+Lemuridae,Eulemur,ruffifrons,VU,helminth,,nematode,138438,Trichuridae,Trichuris,sp.,Tsiombokibo Classified Forest,"Junge et al., 2005",Biomedical,Eulemur_rufifrons
+Lemuridae,Eulemur,rubriventer,VU,helminth,,nematode,142826,,,,,"Hogg, 2002",,Eulemur_rubriventer
+Lemuridae,Varecia,variegata,CR,helminth,,nematode,99202,Oxyuridae,Callistoura,,Ranomafana,"noromalala, 2022",,Varecia_variegata_variegata
+Lemuridae,Varecia,variegata,CR,helminth,,nematode,99202,strongylidae,stronglyloides,,Ranomafana,"noromalala, 2022",,Varecia_variegata_variegata
+Lemuridae,Varecia,variegata,CR,helminth,,nematode,99202,Oxyuridae,Callistoura,,,"faulkner et al., 2004",,Varecia_variegata_variegata
+Lemuridae,Varecia,variegata,CR,protozoa,,protozoan,99202,coccidia,coccidia,,Ranomafana,"noromalala, 2022",,Varecia_variegata_variegata
+Lemuridae,Varecia,variegata,CR,protozoa,,protozoan,99202,Balantidiidae,Balantidium,sp.,Ranomafana,"noromalala, 2022",,Varecia_variegata_variegata
+Lemuridae,Varecia,variegata,CR,protozoa,,protozoan,99202,Entamoebidae,amebic,,Ranomafana,"noromalala, 2022",,Varecia_variegata_variegata
+Lemuridae,Lemur,catta,EN,protozoa,,protozoan,115083,Entamoebidae,amebic,,Bezaha Mahafaly,"faulkner et al., 2004",,Lemur_catta
+Lemuridae,Lemur,catta,EN,protozoa,,protozoan,115083,Coccidia,coccidia,,Bezaha Mahafaly,"loudon et al., 2006",,Lemur_catta
+Lemuridae,Eulemur,ruffifrons,VU,helminth,,nematode,138438,strongylidae,Lemurostrongylus,,Tsiombokibo Classified Forest,"Junge et al., 2005",Biomedical,Eulemur_rufifrons
+Lemuridae,Eulemur,fulvus,VU,helminth,,nematode,170182,Oxyuridae,Callistoura,,Mayotte,"Quitar et al., 2019",Biomedical,Eulemur_fulvus
+Lemuridae,Eulemur,fulvus,VU,helminth,,nematode,170182,Oxyuridae,Lemuricola,,Mayotte,"Quitar et al., 2019",Biomedical,Eulemur_fulvus
+Lepilemuridae,Lepilemur,edwardsi,EN,helminth,,nematode,10654,Ascarididae,Ascaris,sp.,Ankarafantsika,"Bethge et al., 2022",,Lepilemur_edwardsi
+Lepilemuridae,Lepilemur,edwardsi,EN,helminth,,nematode,10654,strongylidae,strongylidae,sp.,Ankarafantsika,"Bethge et al., 2022",,Lepilemur_edwardsi
+Lepilemuridae,Lepilemur,edwardsi,EN,helminth,,nematode,10654,Oxyuridae,Lemuricola,sp.,Ankarafantsika,"Bethge et al., 2022",,Lepilemur_edwardsi
+Lepilemuridae,Lepilemur,edwardsi,EN,helminth,,nematode,10654,strongylidae,Lemurostrongylus,sp.,,"Junge and Sauther, 2006",,Lepilemur_edwardsi
+Lepilemuridae,Lepilemur,ruficaudatus,CR,helminth,,nematode,23325,Tristrongylidae,Pararhabdonema,longistriata,,"Chabau and Choquet, 1955",,Lepilemur_ruficaudatus
+Lepilemuridae,Lepilemur,microdon,EN,helminth,,nematode,159,Tristrongylidae,Pararhabdonema,longistriata,,"Chabau et al., 1965",,Lepilemur_microdon
+Cheirogaleidae,Cheirogaleus,medius,VU,helminth,,nematode,49307,Coccidia,Coccidia,,Mandena,"raharivololona et al., 2007",,Cheirogaleus_medius
+Lemuridae,Eulemur ,rufifrons,VU,Protozoa,1,protozoan,,Balantidiidae,Balantidium,coli,kirindy,"Clough, D. 2010. Gastro-intestinal parasites of red-fronted lemurs in Kirindy Forest, Western Madagascar. Journal of Parasitology 96: 245-251.",,Eulemur _fulvus_rufus
+Lemuridae,Eulemur ,rufifrons,VU,Protozoa,1,protozoan,,Balantidiidae,Balantidium,coli,kirindy,"Clough, D., Heistermann, M., and P. Kappeler. 2010. Host Intrinsic Determinants and Potential Consequences of Parasite Infection in Free-Ranging Red-Fronted Lemurs (Eulemur fulvus rufus). American Journal of Physical Anthropology 142:441-452",,Eulemur _fulvus_rufus
+Lemuridae,Eulemur ,rufifrons,VU,Protozoa,1,protozoan,,Balantidiidae,Balantidium,coli,kirindy,"Clough, D., Heistermann, M., and P. Kappeler. 2010. Host Intrinsic Determinants and Potential Consequences of Parasite Infection in Free-Ranging Red-Fronted Lemurs (Eulemur fulvus rufus). American Journal of Physical Anthropology 142:441-452",,Eulemur _fulvus_rufus
+Lemuridae,Eulemur ,macaco,EN,Helminth,,,,Colobenterobius,inglisi,,,"Chabaud, A. G., Brygoo E. R., and A.J. Petter. 1965. Les nematodes parasites de Lemuriens malgaches. VI. Description de six especes nouvelles et conclusions generales. Annales de Parasitologie 40 (2): 181-214.",,Eulemur _macaco_macaco
+Indriidae,Propithecus,edwardsi,EN,Protozoa,0,protozoan,,Cryptosporidiidae,Cryptosporidium,sp.,Ranomafana,"Rasambainarivo, F. T., Gillespie, T. R., Wright, P. C., Arsenault, J., Villeneuve, A., & Lair, S. (2013). Survey of Giardia and Cryptosporidium in lemurs from the Ranomafana National Park, Madagascar. Journal of Wildlife Diseases, 49(3), 741-743.",,Propithecus_edwardsi
+Lemuridae,Eulemur ,rubriventer,VU,Protozoa,0,protozoan,,Cryptosporidiidae,Cryptosporidium,sp.,Ranomafana,"Rasambainarivo, F. T., Gillespie, T. R., Wright, P. C., Arsenault, J., Villeneuve, A., & Lair, S. (2013). Survey of Giardia and Cryptosporidium in lemurs from the Ranomafana National Park, Madagascar. Journal of Wildlife Diseases, 49(3), 741-743.",,Eulemur _rubriventer
+Lemuridae,Prolemur ,simus,CR,Protozoa,0.5,protozoan,,Cryptosporidiidae,Cryptosporidium,sp.,Ranomafana,"Rasambainarivo, F. T., Gillespie, T. R., Wright, P. C., Arsenault, J., Villeneuve, A., & Lair, S. (2013). Survey of Giardia and Cryptosporidium in lemurs from the Ranomafana National Park, Madagascar. Journal of Wildlife Diseases, 49(3), 741-743.",,Prolemur _simus
+Cheirogaleidae,Microcebus,rufus,VU,Protozoa,0.5,protozoan,,Cryptosporidiidae,Cryptosporidium,sp.,Ranomafana,"Rasambainarivo, F. T., Gillespie, T. R., Wright, P. C., Arsenault, J., Villeneuve, A., & Lair, S. (2013). Survey of Giardia and Cryptosporidium in lemurs from the Ranomafana National Park, Madagascar. Journal of Wildlife Diseases, 49(3), 741-743.",,Microcebus_rufus
+Indriidae,Propithecus,edwardsi,EN,Protozoa,0,protozoan,,Cryptosporidiidae,Cryptosporidium,sp.,Ranomafana,"Rasambainarivo, F. T., Gillespie, T. R., Wright, P. C., Arsenault, J., Villeneuve, A., & Lair, S. (2013). Survey of Giardia and Cryptosporidium in lemurs from the Ranomafana National Park, Madagascar. Journal of Wildlife Diseases, 49(3), 741-743.",,Propithecus_edwardsi
+Lemuridae,Eulemur,rubriventer,VU,Protozoa,0,protozoan,,Cryptosporidiidae,Cryptosporidium,sp.,Ranomafana,"Rasambainarivo, F. T., Gillespie, T. R., Wright, P. C., Arsenault, J., Villeneuve, A., & Lair, S. (2013). Survey of Giardia and Cryptosporidium in lemurs from the Ranomafana National Park, Madagascar. Journal of Wildlife Diseases, 49(3), 741-743.",,Eulemur_rubriventer
+Indriidae,Propithecus,candidus,CR,Protozoa,0,protozoan,,Cryptosporidiidae,Cryptosporidium,sp.,,"Loudon, J. E., Patel, E. R., Faulkner, C., Schopler, R., Kramer, R. A., Williams, C. V., & Herrera, J. P. (2017). 8 An Ethnoprimatological Assessment of Human Impact on the Parasite Ecology of Silky Sifaka (Propithecus candidus). Ethnoprimatology: A Practical Guide to Research at the Human-Nonhuman Primate Interface, 76, 89.",,Propithecus_candidus
+Indriidae,Indri,indri,CR,Protozoa,0,protozoan,,Cryptosporidiidae,Cryptosporidium,sp.,Betampona,"Junge, R. E., Barrett, M. A., & Yoder, A. D. (2011). Effects of anthropogenic disturbance on indri (Indri indri) health in Madagascar. American Journal of Primatology, 73(7), 632-642.",,Indri_indri
+Indriidae,Indri,indri,CR,Protozoa,0,protozoan,,Cryptosporidiidae,Cryptosporidium,sp.,Betampona,"Junge, R. E., Barrett, M. A., & Yoder, A. D. (2011). Effects of anthropogenic disturbance on indri (Indri indri) health in Madagascar. American Journal of Primatology, 73(7), 632-642.",,Indri_indri
+Indriidae,Propithecus,edwardsi,EN,Protozoa,0,protozoan,,Entamoebidae,Entamoeba,histolytica,,"Ragazzo, L. J., Zohdy, S., Velonabison, M., Herrera, J., Wright, P. C., & Gillespie, T. R. (2018). Entamoeba histolytica infection in wild lemurs associated with proximity to humans. Veterinary parasitology, 249, 98-101.",,Propithecus_edwardsi
+Lemuridae,Hapalemur ,aureus,CR,Protozoa,0.056,protozoan,,Entamoebidae,Entamoeba,histolytica,,"Ragazzo, L. J., Zohdy, S., Velonabison, M., Herrera, J., Wright, P. C., & Gillespie, T. R. (2018). Entamoeba histolytica infection in wild lemurs associated with proximity to humans. Veterinary parasitology, 249, 98-101.",,Hapalemur _aureus
+Lemuridae,Prolemur,simus,CR,Protozoa,0,protozoan,,Entamoebidae,Entamoeba,histolytica,,"Ragazzo, L. J., Zohdy, S., Velonabison, M., Herrera, J., Wright, P. C., & Gillespie, T. R. (2018). Entamoeba histolytica infection in wild lemurs associated with proximity to humans. Veterinary parasitology, 249, 98-101.",,Prolemur_simus
+Lemuridae,Eulemur ,rufifrons,VU,Protozoa,0,protozoan,,Entamoebidae,Entamoeba,histolytica,,"Ragazzo, L. J., Zohdy, S., Velonabison, M., Herrera, J., Wright, P. C., & Gillespie, T. R. (2018). Entamoeba histolytica infection in wild lemurs associated with proximity to humans. Veterinary parasitology, 249, 98-101.",,Eulemur _fulvus_rufus
+Lemuridae,Eulemur,rubriventer,VU,Protozoa,0.077,protozoan,,Entamoebidae,Entamoeba,histolytica,,"Ragazzo, L. J., Zohdy, S., Velonabison, M., Herrera, J., Wright, P. C., & Gillespie, T. R. (2018). Entamoeba histolytica infection in wild lemurs associated with proximity to humans. Veterinary parasitology, 249, 98-101.",,Eulemur_rubriventer
+Cheirogaleidae,Microcebus,rufus,VU,Protozoa,0.054,protozoan,,Entamoebidae,Entamoeba,histolytica,,"Ragazzo, L. J., Zohdy, S., Velonabison, M., Herrera, J., Wright, P. C., & Gillespie, T. R. (2018). Entamoeba histolytica infection in wild lemurs associated with proximity to humans. Veterinary parasitology, 249, 98-101.",,Microcebus_rufus
+Lemuridae,Varecia,variegata,CR,Protozoa,0,protozoan,,Entamoebidae,Entamoeba,histolytica,,"Ragazzo, L. J., Zohdy, S., Velonabison, M., Herrera, J., Wright, P. C., & Gillespie, T. R. (2018). Entamoeba histolytica infection in wild lemurs associated with proximity to humans. Veterinary parasitology, 249, 98-101.",,Varecia_variegata_variegata
+Indriidae,Propithecus,verreauxi,CR,Helminth,0.056,nematode,,Entamoebidae,Enterobius,sp.,Bezaha Mahafaly,"Raveloarisoa, A. (2000). Contribution à l'étude De la préférence alimentaire du Propithecus verreauxi verreauxi de la RS de Beza Mahafaly (Parcelle I). Mémoire de DEA, Sciences Biologie Appliquées. Faculté des Sciences, Université d'Antananarivo.",,Propithecus_verreauxi
+Cheirogaleidae,Microcebus,rufus,VU,Helminth,0,nematode,,Entamoebidae,Enterobius,sp.,,"AIVELO, T., MEDLAR, A., LÖYTYNOJA, A., LAAKKONEN, J., & JERNVALL, J. (2015). Tracking year-to-year changes in intestinal nematode communities of rufous mouse lemurs (Microcebus rufus). Parasitology, 142(8), 1095-1107. doi:10.1017/S0031182015000438",,Microcebus_rufus
+Cheirogaleidae,Microcebus,rufus,VU,Helminth,0,nematode,,Entamoebidae,Enterobius,sp.,,"AIVELO, T., MEDLAR, A., LÖYTYNOJA, A., LAAKKONEN, J., & JERNVALL, J. (2015). Tracking year-to-year changes in intestinal nematode communities of rufous mouse lemurs (Microcebus rufus). Parasitology, 142(8), 1095-1107. doi:10.1017/S0031182015000438",,Microcebus_rufus
+Cheirogaleidae,Microcebus,rufus,VU,Helminth,0,nematode,,Entamoebidae,Enterobius,sp.,,"AIVELO, T., MEDLAR, A., LÖYTYNOJA, A., LAAKKONEN, J., & JERNVALL, J. (2015). Tracking year-to-year changes in intestinal nematode communities of rufous mouse lemurs (Microcebus rufus). Parasitology, 142(8), 1095-1107. doi:10.1017/S0031182015000438",,Microcebus_rufus
+Cheirogaleidae,Microcebus,rufus,VU,Helminth,0,nematode,,Entamoebidae,Enterobius,sp.,,"AIVELO, T., MEDLAR, A., LÖYTYNOJA, A., LAAKKONEN, J., & JERNVALL, J. (2015). Tracking year-to-year changes in intestinal nematode communities of rufous mouse lemurs (Microcebus rufus). Parasitology, 142(8), 1095-1107. doi:10.1017/S0031182015000438",,Microcebus_rufus
+Cheirogaleidae,Microcebus,rufus,VU,Helminth,0,nematode,,Entamoebidae,Enterobius,sp.,,"AIVELO, T., MEDLAR, A., LÖYTYNOJA, A., LAAKKONEN, J., & JERNVALL, J. (2015). Tracking year-to-year changes in intestinal nematode communities of rufous mouse lemurs (Microcebus rufus). Parasitology, 142(8), 1095-1107. doi:10.1017/S0031182015000438",,Microcebus_rufus
+Cheirogaleidae,Microcebus,rufus,VU,Helminth,0,nematode,,Entamoebidae,Enterobius,sp.,,"AIVELO, T., MEDLAR, A., LÖYTYNOJA, A., LAAKKONEN, J., & JERNVALL, J. (2015). Tracking year-to-year changes in intestinal nematode communities of rufous mouse lemurs (Microcebus rufus). Parasitology, 142(8), 1095-1107. doi:10.1017/S0031182015000438",,Microcebus_rufus
+Cheirogaleidae,Microcebus,rufus,VU,Helminth,0.04,nematode,,Entamoebidae,Enterobius,sp.,,"AIVELO, T., MEDLAR, A., LÖYTYNOJA, A., LAAKKONEN, J., & JERNVALL, J. (2015). Tracking year-to-year changes in intestinal nematode communities of rufous mouse lemurs (Microcebus rufus). Parasitology, 142(8), 1095-1107. doi:10.1017/S0031182015000438",,Microcebus_rufus
+Cheirogaleidae,Microcebus,rufus,VU,Helminth,0.044,nematode,,Entamoebidae,Enterobius,sp.,,"AIVELO, T., MEDLAR, A., LÖYTYNOJA, A., LAAKKONEN, J., & JERNVALL, J. (2015). Tracking year-to-year changes in intestinal nematode communities of rufous mouse lemurs (Microcebus rufus). Parasitology, 142(8), 1095-1107. doi:10.1017/S0031182015000438",,Microcebus_rufus
+Cheirogaleidae,Microcebus,rufus,VU,Helminth,0.042,nematode,,Entamoebidae,Enterobius,sp.,,"AIVELO, T., MEDLAR, A., LÖYTYNOJA, A., LAAKKONEN, J., & JERNVALL, J. (2015). Tracking year-to-year changes in intestinal nematode communities of rufous mouse lemurs (Microcebus rufus). Parasitology, 142(8), 1095-1107. doi:10.1017/S0031182015000438",,Microcebus_rufus
+Cheirogaleidae,Microcebus,murinus,LC,Helminth,0.01,nematode,,Entamoebidae,Enterobius,sp.,Mandena,"Raharivololona, B., Rakotondravao, and J. U. Ganzhorn. 2007. Gastrointestinal parasites of small mammals in the littoral forest of Mandena, Pages 247-258 in J. U. Ganzhorn, S. M. Goodman, and M. Vincelette, eds. Biodiversity, Ecology, and Conservation of Littoral Ecosystems in the Region of Tolagnaro (Fort Dauphin), Southeastern Madagascar.
+Gastrointestinal parasites of small mammals in the littoral forest
+of Mandena. In: Biodiversity, Ecology, and Conservation of Littoral
+Ecosystems in the Region of Tolagnaro (Fort Dauphin), Southeastern
+Madagascar, J. U. Ganzhorn, S. M. Goodman & M. Vincelette (eds.), pp
+247-258. Smithsonian Institution, Washington, D. C.",,Microcebus_murinus
+Cheirogaleidae,Microcebus,murinus,LC,Helminth,0.01,nematode,,Entamoebidae,Enterobius,sp.,Mandena,"Raharivololona, B.M. 2006. Gastrointestinal parasites of Cheirogaleus spp. and Microcebus murinus in the littoral forest of Mandena, Madagascar. Lemur News 11: 31-35.",,Microcebus_murinus
+Cheirogaleidae,Cheirogaleus,major,VU,Helminth,,nematode,,Oxyuridae,Lemuricola ,contagiosus,,"Chabaud, A. G., Brygoo E. R., and A.J. Petter. 1965. Les nematodes parasites de Lemuriens malgaches. VI. Description de six especes nouvelles et conclusions generales. Annales de Parasitologie 40 (2): 181-214.",,Cheirogaleus_major
+Cheirogaleidae,Cheirogaleus,major,VU,Helminth,,nematode,,Oxyuridae,Lemuricola ,contagiosus,,"Hugot, J. P., S. L. Gardner, and S. Morand. 1996. The Enterobiinae subfam nov (Nematoda, Oxyurida) pinworm parasites of primates and rodents. International Journal for Parasitology 26:147-159.
+",,Cheirogaleus_major
+Cheirogaleidae,Cheirogaleus,major,VU,Helminth,,nematode,,Oxyuridae,Lemuricola ,contagiosus,,"Hugot, J. P. 1999. Primates and their pinworm parasite: the Cameron hypothesis revisited. Systematic Biology 48:523-546. ",,Cheirogaleus_major
+Daubentonidae,Daubentonia,madagascariensis,EN,Helminth,,nematode,,Oxyuridae,Lemuricola ,daubentoniae,,"Hugot, J. P. 1999. Primates and their pinworm parasite: the Cameron hypothesis revisited. Systematic Biology 48:523-546. ",,Daubentonia_madagascariensis
+Lemuridae,Eulemur,macaco,EN,Helminth,,nematode,,Oxyuridae,Lemuricola ,lemuris,,"Hugot, J. P. 1999. Primates and their pinworm parasite: the Cameron hypothesis revisited. Systematic Biology 48:523-546. ",,Eulemur_macaco
+Lemuridae,Eulemur,albifrons,VU,Helminth,,nematode,,Oxyuridae,Lemuricola ,lemuris,,"Irwin, M.T., and J. Raharison. 2009. A review of the endoparasites of the lemurs of Madagascar. Malagasy Nature 2: 66-93.",,Eulemur_albifrons
+Lemuridae,Eulemur,macaco,EN,Helminth,,nematode,,Oxyuridae,Lemuricola ,lemuris,,"Irwin, M.T., and J. Raharison. 2009. A review of the endoparasites of the lemurs of Madagascar. Malagasy Nature 2: 66-93.",,Eulemur_macaco
+Cheirogaleidae,Microcebus ,murinus,LC,Helminth,,nematode,,Oxyuridae,Lemuricola ,microcebi,,"Hugot, J. P. 1999. Primates and their pinworm parasite: the Cameron hypothesis revisited. Systematic Biology 48:523-546. ",,Microcebus _murinus
+Indriidae,Propithecus,verreauxi,CR,Helminth,,nematode,,Oxyuridae,Lemuricola ,tricuroides,,"Chabaud, A. G., Brygoo E. R., and A.J. Petter. 1965. Les nematodes parasites de Lemuriens malgaches. VI. Description de six especes nouvelles et conclusions generales. Annales de Parasitologie 40 (2): 181-214.",,Propithecus_verreauxi
+Indriidae,Propithecus,verreauxi,CR,Helminth,,nematode,,Oxyuridae,Lemuricola ,tricuroides,,"Hugot, J. P. 1999. Primates and their pinworm parasite: the Cameron hypothesis revisited. Systematic Biology 48:523-546. ",,Propithecus_verreauxi
+Indriidae,Propithecus,verreauxi,CR,Helminth,0.385,nematode,,Oxyuridae,Lemuricola ,tricuroides,,"Loudon, J.E. 2009. The parasite ecology and socioecology of Ring-tailed Lemurs (Lemur catta) and Verreaux's Sifaka (Propithecus verreauxi) (Inhabiting the Beza Mahafaly Special Reserve [thesis]. University of Colorado.",,Propithecus_verreauxi
+Lemuridae,Eulemur,fulvus,VU,Helminth,,nematode,,Oxyuridae,Lemuricola ,vauceli,,"Chabaud, A. G., Brygoo E. R., and A.J. Petter. 1965. Les nematodes parasites de Lemuriens malgaches. VI. Description de six especes nouvelles et conclusions generales. Annales de Parasitologie 40 (2): 181-214.",,Eulemur_fulvus
+Lemuridae,Eulemur,fulvus,VU,Helminth,,nematode,,Oxyuridae,Lemuricola ,vauceli,,"Chabaud, A. G., Brygoo E. R., and A.J. Petter. 1965. Les nematodes parasites de Lemuriens malgaches. VI. Description de six especes nouvelles et conclusions generales. Annales de Parasitologie 40 (2): 181-214.",,Eulemur_fulvus
+Lemuridae,Eulemur,mongoz,CR,Helminth,,nematode,,Oxyuridae,Lemuricola ,vauceli,,"Chabaud, A. G., Brygoo E. R., and A.J. Petter. 1965. Les nematodes parasites de Lemuriens malgaches. VI. Description de six especes nouvelles et conclusions generales. Annales de Parasitologie 40 (2): 181-214.",,Eulemur_mongoz
+Lemuridae,Hapalemur,sp.,,Helminth,,nematode,,Oxyuridae,Lemuricola ,vauceli,,"Chabaud, A. G., Brygoo E. R., and A.J. Petter. 1965. Les nematodes parasites de Lemuriens malgaches. VI. Description de six especes nouvelles et conclusions generales. Annales de Parasitologie 40 (2): 181-214.",,Hapalemur_sp.
+Lemuridae,Eulemur,fulvus,VU,Helminth,,nematode,,Oxyuridae,Lemuricola ,vauceli,,"Hugot, J. P., S. L. Gardner, and S. Morand. 1996. The Enterobiinae subfam nov (Nematoda, Oxyurida) pinworm parasites of primates and rodents. International Journal for Parasitology 26:147-159.
+",,Eulemur_fulvus
+Lemuridae,Eulemur,fulvus,VU,Helminth,,nematode,,Oxyuridae,Lemuricola ,vauceli,,"Hugot, J. P. 1999. Primates and their pinworm parasite: the Cameron hypothesis revisited. Systematic Biology 48:523-546. ",,Eulemur_fulvus
+Lemuridae,Eulemur,rufifrons,VU,Helminth,1,nematode,,Oxyuridae,Lemuricola ,vauceli,kirindy,"Clough, D. 2010. Gastro-intestinal parasites of red-fronted lemurs in Kirindy Forest, Western Madagascar. Journal of Parasitology 96: 245-251.",,Eulemur_rufifrons
+Lemuridae,Eulemur,rufifrons,VU,Helminth,1,nematode,,Oxyuridae,Lemuricola ,vauceli,kirindy,"Clough, D., Heistermann, M., and P. Kappeler. 2010. Host Intrinsic Determinants and Potential Consequences of Parasite Infection in Free-Ranging Red-Fronted Lemurs (Eulemur fulvus rufus). American Journal of Physical Anthropology 142:441-452",,Eulemur_rufifrons
+Lemuridae,Eulemur,rufifrons,VU,Helminth,0.88,nematode,,Oxyuridae,Lemuricola ,vauceli,kirindy,"Clough, D., Heistermann, M., and P. Kappeler. 2010. Host Intrinsic Determinants and Potential Consequences of Parasite Infection in Free-Ranging Red-Fronted Lemurs (Eulemur fulvus rufus). American Journal of Physical Anthropology 142:441-452",,Eulemur_rufifrons
+Cheirogaleidae,Microcebus,murinus,LC,Helminth,0.145,nematode,,Oxyuridae,Oxyuridae ,sp.,,"Poirotte, C., & Kappeler, P. M. (2019). Hygienic personalities in wild grey mouse lemurs vary adaptively with sex. Proceedings of the Royal Society B, 286(1908), 20190863.",,Microcebus_murinus
